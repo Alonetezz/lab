@@ -8,3 +8,5 @@ echo $APP_PID
 kill -TERM $APP_PID
 echo app code $APP_CODE
 exit $APP_CODE
+
+
